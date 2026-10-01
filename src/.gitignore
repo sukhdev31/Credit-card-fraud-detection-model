@@ -1,0 +1,15 @@
+# Virtual Environment
+venv/
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Logs
+logs/
+*.log
+
+# Ignore raw datasets or large model dumps if they are heavy (>100MB)
+# data/
+# models/*.pkl
